@@ -1,0 +1,6 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\LibFacturaa\bin\Debug\LibFactura.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\LibFacturaa\bin\Debug\LibFactura.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.pdb
