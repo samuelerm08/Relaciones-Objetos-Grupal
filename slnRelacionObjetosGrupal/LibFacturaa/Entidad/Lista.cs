@@ -16,6 +16,12 @@ namespace LibFactura.Entidad
             {
                 Categoria = new Categoria("Moda"),
             });
+
+            productos.Add(new Producto("Mouse", 100)
+            {
+                Categoria = new Categoria("Tecnologia"),
+            });
+
             return productos;
         }
     }

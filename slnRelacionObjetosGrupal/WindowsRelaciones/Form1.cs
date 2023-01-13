@@ -19,12 +19,11 @@ namespace WindowsRelaciones
         }
 
         private void MostrarProductos(object sender, EventArgs e)
-        {                                                      
+        {
             foreach (var item in Lista.Listar())
             {
-                listProducts.Items.Add(item.Categoria.Nombre);
+                listaProductos.Items.Add(item);
             }
-
         }
     }
 }

@@ -18,5 +18,12 @@ namespace LibFactura.Entidad
         public double Precio { get; set; }
         public List<DetalleFactura> DetalleFacturas { get; set; }
         public Categoria Categoria { get; set; }
+
+        public override string ToString()
+        {
+            return $"Nombre: {Nombre}\n | " +
+                   $"Precio: {Precio}\n | " +
+                   $"Categoria: {Categoria.Nombre}";
+        }
     }
 }

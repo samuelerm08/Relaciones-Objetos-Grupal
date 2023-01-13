@@ -26,3 +26,17 @@ D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos
 D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
 D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
 D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb

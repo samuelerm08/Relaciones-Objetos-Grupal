@@ -10,3 +10,9 @@ D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos
 D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.csproj.CoreCompileInputs.cache
 D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.dll
 D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\LibFacturaa\bin\Debug\LibFactura.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\LibFacturaa\bin\Debug\LibFactura.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\slnGrupalRelaciones\slnRelacionObjetosGrupal\LibFacturaa\obj\Debug\LibFactura.pdb

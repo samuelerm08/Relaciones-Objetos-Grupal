@@ -28,58 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.gridProductos = new System.Windows.Forms.DataGridView();
-            this.listProducts = new System.Windows.Forms.ListBox();
-            ((System.ComponentModel.ISupportInitialize)(this.gridProductos)).BeginInit();
+            this.listaProductos = new System.Windows.Forms.ListBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // listaProductos
             // 
-            this.button1.Location = new System.Drawing.Point(345, 259);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Mostrar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.MostrarProductos);
+            this.listaProductos.Font = new System.Drawing.Font("Microsoft YaHei", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listaProductos.FormattingEnabled = true;
+            this.listaProductos.ItemHeight = 16;
+            this.listaProductos.Location = new System.Drawing.Point(230, 143);
+            this.listaProductos.Name = "listaProductos";
+            this.listaProductos.Size = new System.Drawing.Size(314, 84);
+            this.listaProductos.TabIndex = 1;
             // 
-            // gridProductos
+            // label2
             // 
-            this.gridProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.gridProductos.Location = new System.Drawing.Point(267, 90);
-            this.gridProductos.Name = "gridProductos";
-            this.gridProductos.Size = new System.Drawing.Size(240, 150);
-            this.gridProductos.TabIndex = 1;
-            // 
-            // listProducts
-            // 
-            this.listProducts.FormattingEnabled = true;
-            this.listProducts.Location = new System.Drawing.Point(548, 90);
-            this.listProducts.Name = "listProducts";
-            this.listProducts.Size = new System.Drawing.Size(120, 95);
-            this.listProducts.TabIndex = 2;
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(326, 105);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(94, 22);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Productos";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.listProducts);
-            this.Controls.Add(this.gridProductos);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.listaProductos);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.gridProductos)).EndInit();
+            this.Load += new System.EventHandler(this.MostrarProductos);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.DataGridView gridProductos;
-        private System.Windows.Forms.ListBox listProducts;
+        private System.Windows.Forms.ListBox listaProductos;
+        private System.Windows.Forms.Label label2;
     }
 }
 
