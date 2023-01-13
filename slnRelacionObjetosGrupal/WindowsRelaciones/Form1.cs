@@ -24,6 +24,7 @@ namespace WindowsRelaciones
             {
                 listProducts.Items.Add(item.Categoria.Nombre);
             }
+
         }
     }
 }

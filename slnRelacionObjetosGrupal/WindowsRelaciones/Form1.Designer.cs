@@ -55,7 +55,7 @@
             // listProducts
             // 
             this.listProducts.FormattingEnabled = true;
-            this.listProducts.Location = new System.Drawing.Point(573, 161);
+            this.listProducts.Location = new System.Drawing.Point(548, 90);
             this.listProducts.Name = "listProducts";
             this.listProducts.Size = new System.Drawing.Size(120, 95);
             this.listProducts.TabIndex = 2;

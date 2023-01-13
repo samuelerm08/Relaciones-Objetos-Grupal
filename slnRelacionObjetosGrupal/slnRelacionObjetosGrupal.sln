@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFactura", "LibFacturaa\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsRelaciones", "WindowsRelaciones\WindowsRelaciones.csproj", "{3E0F5418-56ED-4694-8407-9B302E9EE343}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibEscuela", "LibEscuela\LibEscuela.csproj", "{1EF1DFF2-7F8D-44E1-9707-AB3AF8A31773}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3E0F5418-56ED-4694-8407-9B302E9EE343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E0F5418-56ED-4694-8407-9B302E9EE343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E0F5418-56ED-4694-8407-9B302E9EE343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF1DFF2-7F8D-44E1-9707-AB3AF8A31773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF1DFF2-7F8D-44E1-9707-AB3AF8A31773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF1DFF2-7F8D-44E1-9707-AB3AF8A31773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF1DFF2-7F8D-44E1-9707-AB3AF8A31773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

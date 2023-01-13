@@ -12,3 +12,17 @@ C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacion
 C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
 C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
 C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe.config
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.pdb
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.dll
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.pdb
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.AssemblyReference.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Form1.resources
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Properties.Resources.resources
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.GenerateResource.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb
